@@ -1,4 +1,6 @@
 # ADB Commands
+
+### Common ADB Commands
 | Command | Use | Example |
 |---------|-----|---------|
 | `adb devices` | List connected devices | `adb devices` |
