@@ -18,3 +18,4 @@
 | `adb shell pm list packages` | List installed packages | `adb shell pm list packages` |
 | `adb shell am start -n <package>/<activity>` | Start an app | `adb shell am start -n com.example.app/.MainActivity` |
 | `adb shell input text "<text>"` | Input text | `adb shell input text "Hello World"` |
+| `adb connect <ipaddress>:<port>` | Connect to device on a network | `adb connect 60.31.248.200:5555` |
